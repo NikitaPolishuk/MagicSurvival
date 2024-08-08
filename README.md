@@ -1,0 +1,1 @@
+MagicSurvival(test name)
